@@ -1,6 +1,6 @@
 # Snakemake workflow: dnds-clonesize
 
-This is a snakemake workflow to reproduce figures from "Measuring the distribution of fitness effects in somatic evolution by combining clonal dynamics with dN/dS ratios"
+This is a snakemake workflow to reproduce figures from "Measuring the distribution of fitness effects in somatic evolution by combining clonal dynamics with dN/dS ratios" https://doi.org/10.7554/eLife.48714
 
 ## Authors
 
